@@ -12,6 +12,7 @@
 
 
 ## Results
+
 <img width="600" alt="" src="https://github.com/user-attachments/assets/f689ee5a-6edc-446d-9ae3-fa0d7228b5ef"/>
 
 # Project 2: Data Analysis Using Python
@@ -26,7 +27,7 @@
 
 [📄 Click to View Full](Python_Data_Analysis.pdf)
 
-<!-- <iframe src="Python_Data_Analysis.pdf" width="100%" height="600px"></iframe>
+<!-- <iframe src="Python_Data_Analysis.pdf" width="100%" height="600px"></iframe> -->
 
 
 
