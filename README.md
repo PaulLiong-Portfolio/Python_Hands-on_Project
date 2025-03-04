@@ -27,9 +27,6 @@
 
 [📄 Click to View Full](Python_Data_Analysis.pdf)
 
-<!-- <iframe src="Python_Data_Analysis.pdf" width="100%" height="600px"></iframe> -->
-
-
 
 ## Results
 ![Screenshot 2025-02-23 222628](https://github.com/user-attachments/assets/6e62de2c-08c7-46c2-9da8-08d94e655e64)
