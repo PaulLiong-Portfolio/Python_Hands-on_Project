@@ -25,7 +25,8 @@
 
 [📄 Click to View Full](Python_Data_Analysis.pdf)
 
-[Python_Data_Analysis.pdf]()
+<iframe src="Python_Data_Analysis.pdf" width="100%" height="600px"></iframe>
+
 
 
 ## Results
