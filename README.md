@@ -20,6 +20,12 @@
 
 - Perform data analysis on a GDP (nominal) per Capita datset using Python with Pandas, NumPy, Matplotlib and Seaborn to get familiarise with Python on Google Colab
 
+![Answer Preview](https://github.com/user-attachments/assets/5ca5fc9b-10f5-41e2-9109-f9532faae084)
+[📄 Click to View Full](https://github.com/user-attachments/files/19075773/Python_Data_Analysis.pdf)
+
+[Python_Data_Analysis.pdf]()
+
+
 ## Results
 ![Screenshot 2025-02-23 222628](https://github.com/user-attachments/assets/6e62de2c-08c7-46c2-9da8-08d94e655e64)
 ![Screenshot 2025-02-23 222650](https://github.com/user-attachments/assets/8bfd8515-f7c9-4265-b037-ff92d316f51c)
