@@ -27,6 +27,7 @@
 
 [📄 Click to View Full](Python_Data_Analysis.pdf)
 
+<!---
 
 ## Results
 ![Screenshot 2025-02-23 222628](https://github.com/user-attachments/assets/6e62de2c-08c7-46c2-9da8-08d94e655e64)
@@ -53,3 +54,5 @@
 ![Screenshot 2025-02-23 223340](https://github.com/user-attachments/assets/824b48f3-fc51-4278-b90b-448b88e73c6d)
 ![Screenshot 2025-02-23 223358](https://github.com/user-attachments/assets/1c2b569b-376a-4fbc-a104-ed6bdfca23cc)
 ![Screenshot 2025-02-23 223417](https://github.com/user-attachments/assets/5ee3fff7-4248-4ae3-a415-12ab01b3cfa9)
+
+-->
