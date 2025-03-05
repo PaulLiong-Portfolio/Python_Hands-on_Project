@@ -25,5 +25,8 @@
 
 [🔎 View Full](https://github.com/user-attachments/files/19075773/Python_Data_Analysis.pdf)
 
+[🔎 View Full](https://github.com/user-attachments/files/19092344/Python_Data_Analysis.pdf)
+
 ![Answer Preview](https://github.com/user-attachments/assets/f4339d74-63d2-47aa-9c77-91efdf76d81d)
 
+👁 **[View Full](Python_Data_Analysis.pdf)**
